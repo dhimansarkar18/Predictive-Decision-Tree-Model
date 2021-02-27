@@ -1,7 +1,7 @@
 # Prediction Using Decision Tree Model
 
 
-![Decision Trees: The Complete Guide to Decision Tree Classifier l Explorium](https://www.explorium.ai/wp-content/uploads/2019/12/Decision-Trees-2.png)[how to stop spam emails]
+![Decision Trees: The Complete Guide to Decision Tree Classifier l Explorium](https://www.explorium.ai/wp-content/uploads/2019/12/Decision-Trees-2.png)
 # Decision Tree Classification Model
 
 In this exercise we create a Decision Tree Classifier algorithm in order to forecast the income levels based off of certain inputs. It uses attributes like occupation, relationship status, age and more to predict whether an individual will make over - under $50,000.
